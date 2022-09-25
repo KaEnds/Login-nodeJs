@@ -1,0 +1,64 @@
+.App{
+  font-family: 'Noto Sans Thai', sans-serif;
+}
+
+.layout-box{
+  width: 80%;
+  min-height: 400px;
+  height: auto;
+  border: 2px solid black;
+  border-radius: 5px;
+  margin: 50px auto;
+  text-align: center;
+  padding: 20px;
+}
+
+.save-box{
+  width: 90%;
+  min-height: 300px;
+  height: auto;
+  margin: auto;
+  padding: 20px;
+}
+
+.my-table{
+  transition: 2s;
+}
+
+.label-size{
+  font-size: x-large;
+}
+
+.my-table td .description input{
+  width: 100px;
+  border: none;
+
+}
+
+.amount-money input{
+  width: 20px!important;
+  border: none;
+
+}
+
+.add-delete svg{
+  width: 2em;
+  height: 2em;
+  cursor: pointer;
+}
+
+.plus-list{
+  color: rgb(15, 183, 32);
+}
+
+.remove-list{
+  color: red;
+}
+
+.delete{
+  border: none;
+}
+
+.button-group > button{
+  margin: 20px 5px;
+}

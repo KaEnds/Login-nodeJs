@@ -1,0 +1,8 @@
+.edit-layout{
+    margin: 50px auto;
+    width: 70%;
+    text-align: center;
+    border: 1px solid black;
+    padding: 70px;
+    font-family: 'Noto Sans Thai', sans-serif;
+}

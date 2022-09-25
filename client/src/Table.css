@@ -1,0 +1,43 @@
+
+.layout{
+    font-family: 'Noto Sans Thai', sans-serif;
+    font-size: larger;
+    width: 90%;
+    min-height: 400px;
+    height: auto;
+    border-radius: 5px;
+    margin: 50px auto;
+    text-align: center;
+    padding: 20px;
+}
+
+.My-list{
+    list-style: square;
+
+}
+
+.hover-table{
+    cursor: pointer;
+}
+
+.top-table{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.edit-col{
+    display: none;
+}
+
+.delete-col{
+    display: none;
+}
+
+.nodata-img{
+    text-align: center;
+}
+
+.nodata-img img{
+    width: 18%;
+}
